@@ -1,0 +1,1 @@
+I hope to expand this to create multi functional base CRUD todo list, I have in mind expand this use frameworks and expand to make it compatible to automate create this type of system, Don't know how long will it take
