@@ -1,0 +1,15 @@
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\bin\Debug\net8.0\ToDoListConsole.exe
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\bin\Debug\net8.0\ToDoListConsole.deps.json
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\bin\Debug\net8.0\ToDoListConsole.runtimeconfig.json
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\bin\Debug\net8.0\ToDoListConsole.dll
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\bin\Debug\net8.0\ToDoListConsole.pdb
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.AssemblyInfo.cs
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.sourcelink.json
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.dll
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\refint\ToDoListConsole.dll
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.pdb
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ToDoListConsole.genruntimeconfig.cache
+c:\Users\User\Desktop\portfolio\TODOCSHARP\ToDoListConsole\obj\Debug\net8.0\ref\ToDoListConsole.dll
